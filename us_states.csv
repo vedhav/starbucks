@@ -1,0 +1,51 @@
+state_code,state_name,state_capital,population
+AL,Alabama,Montgomery,198218
+AK,Alaska,Juneau,32113
+AZ,Arizona,Phoenix,1660272
+AR,Arkansas,Little Rock,197881
+CA,California,Sacramento,508529
+CO,Colorado,Denver,716492
+CT,Connecticut,Hartford,122587
+DE,Delaware,Dover,38079
+FL,Florida,Tallahassee,193551
+GA,Georgia,Atlanta,498044
+HI,Hawaii,Honolulu,347397
+ID,Idaho,Boise,228790
+IL,Illinois,Springfield,114694
+IN,Indiana,Indianapolis,867125
+IA,Iowa,Des Moines,216853
+KS,Kansas,Topeka,125904
+KY,Kentucky,Frankfort,27679
+LA,Louisiana,Baton Rouge,221599
+ME,Maine,Augusta,18681
+MD,Maryland,Annapolis,39174
+MA,Massachusetts,Boston,694583
+MI,Michigan,Lansing,118427
+MN,Minnesota,Saint Paul,307695
+MS,Mississippi,Jackson,164422
+MO,Missouri,Jefferson City,42838
+MT,Montana,Helena,32315
+NE,Nebraska,Lincoln,287401
+NV,Nevada,Carson City,55414
+NH,New Hampshire,Concord,43412
+NJ,New Jersey,Trenton,83974
+NM,New Mexico,Santa Fe,84612
+NY,New York,Albany,97279
+NC,North Carolina,Raleigh,469298
+ND,North Dakota,Bismarck,73112
+OH,Ohio,Columbus,892533
+OK,Oklahoma,Oklahoma City,649021
+OR,Oregon,Salem,173442
+PA,Pennsylvania,Harrisburg,49229
+RI,Rhode Island,Providence,179335
+SC,South Carolina,Columbia,133451
+SD,South Dakota,Pierre,13980
+TN,Tennessee,Nashville,669053
+TX,Texas,Austin,964254
+UT,Utah,Salt Lake City,200591
+VT,Vermont,Montpelier,7436
+VA,Virginia,Richmond,228783
+WA,Washington,Olympia,52555
+WV,West Virginia,Charleston,47215
+WI,Wisconsin,Madison,255214
+WY,Wyoming,Cheyenne,63957
