@@ -206,34 +206,7 @@ server <- function(input, output, session) {
     }
   })
   output$revenue_ui <- renderUI({
-    fluidRow(
-      bs4ValueBox(
-        value = 150,
-        subtitle = "New orders",
-        status = "primary",
-        icon = "shopping-cart"
-      ),
-      bs4ValueBox(
-        elevation = 4,
-        value = "53%",
-        subtitle = "New orders",
-        status = "danger",
-        icon = "cogs"
-      ),
-      bs4ValueBox(
-        value = "44",
-        subtitle = "User Registrations",
-        status = "warning",
-        icon = "sliders"
-      ),
-      bs4ValueBox(
-        value = "53%",
-        subtitle = "Bounce rate",
-        status = "success",
-        icon = "database"
-      ),
-      fluidRow("This tab is still under construction!")
-    )
+    fluidRow("This tab is still under construction!")
   })
 }
 
